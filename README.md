@@ -1,2 +1,2 @@
 # js-p1-juegotexto
-Practica en JavaScript - Juego de Texto 
+Práctica en JavaScript - Juego de Texto 
